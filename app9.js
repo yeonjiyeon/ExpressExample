@@ -1,8 +1,5 @@
 /**
  * express-error-handler 모듈을 이용해 에러 처리하기
- *
- * @date 2016-10-25
- * @author Mike
  */
 
 // Express 기본 모듈 불러오기
